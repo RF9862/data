@@ -1,0 +1,87 @@
+I am a highly motivated, skilled and passionate Machine learning/Web/Mobile/Blockchain developer and I have a lot of experiences for 10 years in the fields of software development.
+
+Able to effectively self-manage during independent projects, as well as collaborate in a team setting.  Challenging every day, to grow, to learn and to improve and bring the best of my experience and abilities to my complementary roles. Happy working remotely as I am when getting together in the office and am open to and enthusiastic about working with team members across multiple geographic locations.
+
+My Skills are as follows:
+
+⭐ AI, Machine learning , deep learning, computer vision
+-NLP, Langchain, GPT3.5, GPT4.0, LLMs, OpenAI, OCR
+-Time serious prediction
+-Speech recognition
+-Object detection and recognition
+-CNN, ANN, RNN , LSTM, SVM , GAN, OpenAI, Reinforcement learning, Mediapipe, knn, Random Forest, Decision tree, Pytorch, tensorflow, keras, tesarret
+⭐ R program, SPSS ,Stata, statistical analysis :
+descriptive statistics, inferential statistics, predict model, data analysis, Bayesian model, averaging meta analysis, Multivariate analysis, non-parametric regression analysis, index creation, Financial markets, APIs, time series forecasting, feature engineering, Machine Learning
+⭐ Web application
+Back-end: Flask, Django, Fastapi Laravel, CodeIgnitor, CakePHP, Zend, Node etc.
+Front-end: Vue.js, React.js, AngularJS, HTML5, CSS3, Bootstrap, Material, SASS, LESS, etc.
+CMS: Wordpress, Drupal, Joomla
+Ecommerce: Shopify, Magento, Opencart, Woocommerce
+DB: MySQL , Sqlite, Oracle, PostgreSQL, MongoDB
+API integration and development:
+Social media, Payment gateways, Google, E-commerce, Logistics and order management system, Background check, Finance/Banking, Travel (GDS), Affiliate platform, WebRTC, SMS/Messaging, Email marketing, etc.
+AWS, S3, EC2, Lambda, ECS, Cloud front, AWS elemental media live & Azure, Google cloud.
+⭐ Mobile App Development
+- React Native, Ionic, Flutter
+- iOS/Android Application Development
+⭐ BlockChain
+Crypto, Solana, DEFI, DAPP, NFT marketplaces, Trading charting system like poocoin.
+Tokens and smart contract such as BRC20, BEP20, ERC20, ERC721 on Ethereum, BSC, Polygon network.
+
+
+geeta:
+
+==================================================
+1. Senior Software Engineer
+Cape & Bay
+Jan 2021 - Present 3 years 7 months
+
+Remote
+
+- Led the development and execution of GymRevenue, a cloud-based platform for gym management, which revolutionized operational efficiencies and user experiences for gym owners.
+- Engineered robust backend solutions with Laravel and integrated cutting-edge frontend technologies using Vue.js and GraphQL, enhancing the platform's responsiveness and functionality.
+- Collaborated with a multidisciplinary team to deliver culturally relevant and technologically advanced digital marketing strategies, significantly boosting client engagement and satisfaction.
+- Contributed to the creation of deeply personal and evocative content for digital strategies, ensuring they resonated with target audiences and aligned with contemporary cultural trends.
+- Actively participated in knowledge-sharing sessions and technical workshops, fostering a culture of continuous learning and innovation within the team.
+
+
+2. Senior Software Engineer & Team Leader
+X-Team
+Jul 2018 - Dec 2020 2 years 6 months
+
+Poland
+
+- Led a team of developers in the design, development, and deployment of a scalable e-commerce platform using React, Node, and MongoDB.
+- Pioneered the integration of SQL to enhance data retrieval times by 300% .
+- Coordinated cross-functional teams, ensuring timely project deliveries with a success rate of 99%.
+- Regularly consulted with stakeholders, providing insights and updates on project status and future tech recommendations.
+- Introduced a new backend language (Rust) which reduced code redundancy by 50%.
+
+3. Senior Full Stack Engineer
+Fortnite
+Mar 2016 - May 2018 2 years 3 months
+
+Remote
+
+- Spearheaded the migration of the core functionalities from PHP to Python/Django, streamlining development processes and improving performance.
+- Developed and maintained features such as user profiles, leaderboards, chat, and payment systems, witnessing an increase in user engagement by 450%.
+- Collaborated with frontend developers to integrate components using React and GraphQL, leading to a more interactive user experience.
+- Played a pivotal role in optimizing database operations using PostgreSQL,reducing data fetch times by 30%.
+- Conducted bi-weekly training sessions, improving team proficiency and knowledge sharing.
+
+
+
+4. Junior to Mid-level Full Stack Developer
+Red Apple Interactive Pharmacy
+Apr 2012 - Mar 2016 4 years
+
+- Led the development and maintenance of key billing system modules using .Net/C# and SQL.
+- Designed and maintained APIs using RESTful practices, which were consumed by third-party vendors and mobile apps.
+- Contributed to the frontend team by developing responsive designs using HTML5 and CSS3, leading to a 250% increase in mobile user engagement.
+- Implemented and optimized database schemas, improving transaction speed and query performance by 40%.
+- Introduced unit-test frameworks (Cypress and Jest) which reduced software bugs by 30% and increased release velocity.
+
+
+
+Bachelor's degree Computer Software Engineering GPA: (3.4/4.0)
+2007 - 2012

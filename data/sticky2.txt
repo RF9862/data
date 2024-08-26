@@ -1,0 +1,49 @@
+ssh command:
+
+1.  mongsh
+- install: https://www.mongodb.com/docs/mongodb-shell/install/
+- mongsh error fix:
+sudo yum remove mongodb-mongosh
+sudo yum install mongodb-mongosh-shared-openssl3
+sudo yum install mongodb-mongosh
+- some command:
+  use vcc_agency
+  db.users.find().pretty()
+  db.users.updateOne( { email: "admin@gmail.com" }, { $set: { privilege: "admin" } } )
+
+2.. enable ssh in nginx
+
+sudo apt update
+sudo apt install certbot python3-certbot-nginx
+sudo certbot --nginx -d yourdomain.com -d www.yourdomain.com
+
+3. running as service
+
+> sudo nano /etc/systemd/system/hqvcc_store.service
+
+[Unit]
+Description=hqvcc.store
+After=network.target
+
+[Service]
+User=nado
+WorkingDirectory=/home/root/vcc-agency-main/client/
+ExecStart=/usr/bin/npm start
+Restart=always
+Environment=PATH=/usr/bin:/usr/local/bin
+Environment=NODE_ENV=production
+
+[Install]
+WantedBy=multi-user.target
+
+> sudo systemctl daemon-reload
+> sudo systemctl start hqvcc_store
+> sudo systemctl enable hqvcc_store
+
+
+twillo
+H18CQNZNDJZ1CPW1QFMKKNWM
+2169661183
+
+
+13126877169
