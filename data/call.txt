@@ -1,0 +1,25 @@
+Welcome to my interactive bio! I'm thrilled that you're considering hiring me for your project. Let's dive into what makes me the perfect fit for your need.
+I am Ngoc Anh Do and 29years old, 
+
+you can simply call me Nado.
+
+I graduated from Post and telecommunications institute of technology at 2017.3
+
+My major in the university was data science. I have coded javascript, python, java, c/c# programs since the university.
+
+I am a Senior software developer.
+I have high-level skills and enough experience as following:
+
+1. First, I have done lots of projects of web development.
+I am good in MERN stack and php fields. I enjoy gladness in doing reactjs, angularjs, nextjs and emberjs. I am very conveient in reactjs and nextjs.
+I have experience of 7+years in reactjs and nextjs. I have also done several projects of laravels.
+As backend, I am using nodejs, php, python-based on backend such as flask, django, fastapi, etc. Here, python based on backend is very powerful to handle machine learning tasks than other backend frameworks.
+
+2. Second, I have completed projects of data processing related with python.
+Clients ask me for web and pdf scraping tasks, automation tasks, I 'd like to give them perfect result.
+Important thing is to show my advantage in machine learning tasks such as object detection, automatic speech recognition, OCR, large language model, open vocabulary object detection, and so on.
+And, web scraping and data processing is very conveient for me, I think.
+I like to solve difficult issue that other developer can't.
+
+
+

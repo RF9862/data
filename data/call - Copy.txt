@@ -1,0 +1,108 @@
+I am Ngoc Anh Do, 
+you can call me Nado and 29 years old.
+you can simply call me Nado.
+I graduated from Taras shevcheno national university of kyiv at 2014.3
+My major in the university was data science. I have coded python prgram since the university.
+I worked in GlobalLogic company from 2016 to 2020
+I have been working as freelancer since 2020.
+That i don't work in the company was my mother's requirement.
+My father is ukraine man, and mother is vietnam woman.
+I think it is not needed to explain about it.
+
+I hope to get to the point soon.
+I want to discuss project soon.
+###############################
+I have done a lot projects related with python.
+first, I have done a project to convert scaaned pdf or image to xlsx or csv.
+There were strong faint images.
+what is important is the accuracy. I had tried to improve the accuracy. 
+client got a great profit by my progam.
+- second, I have done Named entity recognition (NER) projects.
+The project requires data processing, NLP, Machine learning.
+I have trained custom entity and gotten NER model for it.
+- Third, next project is car velocity tracking.
+this is a general project in computer vision and ML. In this project, important thing is roatation of camera. So, common devs can't improve the accuracy.
+I have done the project well using yolo and EKF. 
+I have done this project for five months.
+
+
+############## payment and working flow ####
+Hourly 25usd is agreed
+please tell me about payment date, work time, work method.
+I am freelancer, I will work in your time zone.
+***My English hearing is not good. I want to discuss technical issues in chat.****
+#################
+xarray is labelled multi-dimensional arrays
+dask:  parallel computing library for analytics
+Dask arrays coordinate many Numpy arrays, arranged into chunks within a grid. They support a large subset of the Numpy API.
+Big data: characteristics: volume, value, variety, velocity, and veracity.
+
+##################
+
+
+Urgent : For at least 6 month team reinforcement, we need 2 skilled developers / data engineers confortable and well experienced with
+
+Python / FastApi
+Xarray
+Pandas
+Numpy
+Dask
+Linux
+
+And experience with Big data.
+
+If you think you match those requirement, contact me with your resume in editable format ( WORD)
+
+
+I have done a lot projects realted python.
+- First,  I have done a project to convert scanned pdf or image to xlsx or csv.
+There were strong faint images.
+what is important is the accuracy. I had tried to improve the accuracy. 
+client got a great profit by my progam.
+I can show the result. but I can't give you code. Because we promised.
+
+
+
+
+--- Briefly describe your career.
+I have a experience of 7 years in Machine learning and computer vision.
+
+
+I worked in GlobalLogic company from 2016 to 2020
+
+-- what is your major at university?
+\
+Next I have done Machine learning.
+I have deep knowledge in mathematics, signal processing, ML, image processing.
+
+--- why were you out of the company?
+It was my mother's requirement. Sorry, but I think it is not needed to explain about it.
+--- What is your monthly income? how much money do you want?
+I want 3000usd dollars a month. Budget will be agreed by both you and me.
+I will respect your opinion.
+------------------------------
+I hope to get to the point soon.
+I want to discuss project soon.
+-------Please tell me your experiences of computer vision. what projects have you done?
+I have done a lot projects realted with it.
+- First,  I have done a project to convert scanned pdf or image to xlsx or csv.
+There were strong faint images.
+what is important is the accuracy. I had tried to improve the accuracy. 
+client got a great profit by my progam.
+client is jaisan in india.
+I can show the result. but I can't give you code. Because we promised.
+- Second, next project is car velocity tracking.
+this is a general project in computer vision and ML. In this project, important thing is roatation of camera. So, common devs can't improve the accuracy.
+I have done the project well using yolo and EKF. 
+I have done this project for five months.
+-third
+Lip sync project.
+I have implemented this project in mobile and improved a quality using stylegan2.
+
+
+
+
+
+
+
+
